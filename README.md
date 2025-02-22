@@ -77,9 +77,3 @@ Decrypted message: Hello, this is hidden!
 
 Feel free to fork this repository and submit pull requests for improvements.
 
-
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests for improvements.
-
